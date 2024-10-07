@@ -9,7 +9,7 @@ Welcome to the Vehicle Builder application! This command-line application allows
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Questions](#questions)
-- [Demonstration Video](#demostration)
+- [Demonstration](#demostration)
 - [License](#license)
 
 ## Installation
@@ -77,6 +77,12 @@ If you have any questions, please reach out to me at:
 - GitHub: [skylark-shae](https://github.com/skylark-shae)
 
 ## Demonstration
+
+
+
+
+
+
 
 
 ## License
