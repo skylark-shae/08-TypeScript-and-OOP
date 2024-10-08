@@ -78,7 +78,7 @@ If you have any questions, please reach out to me at:
 
 ## Demonstration
 - See video: [Link](https://drive.google.com/file/d/1ugQOFzJXJm-zBq4xtcVWLt7vHbtDBP_4/view)
-  [Uploading Untitled Video October 7, 2024 6_10 PM.webm…]()
+- Alt link, higher quality: [Link](https://drive.google.com/file/d/1cHvFAjXpsoavnOmTQqrK1n5R4pudbKPI/view?usp=drive_link)
 
 
 
